@@ -1,5 +1,5 @@
 #email
-worat.w@wisesight.com
+warat.w@wisesight.com
 
 #facebook
-Wara Wongmaneekit
+Warat Wongmaneekit
